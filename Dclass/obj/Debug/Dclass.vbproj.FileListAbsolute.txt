@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Dclass\bin\Debug\Dclass.exe.config
+C:\Users\Admin\source\repos\Dclass\bin\Debug\Dclass.exe
+C:\Users\Admin\source\repos\Dclass\bin\Debug\Dclass.pdb
+C:\Users\Admin\source\repos\Dclass\bin\Debug\Dclass.xml
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.Resources.resources
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.exe
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.xml
+C:\Users\Admin\source\repos\Dclass\obj\Debug\Dclass.pdb
