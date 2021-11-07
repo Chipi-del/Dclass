@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\CForm\bin\Release\net5.0-windows\publish\CForm.exe
+C:\Users\Admin\source\repos\CForm\bin\Release\net5.0-windows\publish\CForm.dll
+C:\Users\Admin\source\repos\CForm\bin\Release\net5.0-windows\publish\CForm.deps.json
+C:\Users\Admin\source\repos\CForm\bin\Release\net5.0-windows\publish\CForm.runtimeconfig.json
+C:\Users\Admin\source\repos\CForm\bin\Release\net5.0-windows\publish\CForm.pdb
